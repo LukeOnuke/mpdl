@@ -1,6 +1,7 @@
 .idea/**
 overrides/**
 manifest.json
+typescript
 
 # maven
 target/**
