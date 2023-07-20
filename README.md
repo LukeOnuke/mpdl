@@ -1,6 +1,12 @@
 # mpdl
 Modern CLI minecraft forge modpack downloader. Currently only runs on linux.
 
+CURRENTLY IN ALPHA
+
+```bash
+java -jar mpdl.jar <modpack-dir> <api key>
+```
+
 Plans
 - [ ] Support windows/macos
 - [ ] Improve the ux
