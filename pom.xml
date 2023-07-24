@@ -6,7 +6,7 @@
 
     <groupId>com.lukeonuke</groupId>
     <artifactId>mpdl</artifactId>
-    <version>2.0</version>
+    <version>0.0.1</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
