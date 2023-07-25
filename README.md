@@ -8,9 +8,9 @@ java -jar mpdl.jar <api key> <modpack-dir>
 ```
 
 Plans
-- [ ] Support windows/macos
+- [x] Support windows/macos
 - [ ] Improve the ux
-  - [ ] Flip api key and modpack dirrectory in arguments
+  - [x] Flip api key and modpack dirrectory in arguments
   - [ ] Add ability to understand if the modpack dirrectory is null
-  - [ ] Add ability to read API key from enviroment variables
-  - [ ] Show forge download link (if possible) 
+  - [x] Add ability to read API key from enviroment variables
+  - [x] Show forge download link (if possible) 
